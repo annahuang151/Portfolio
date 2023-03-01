@@ -49,7 +49,7 @@ const Contact = () => {
                         </div>
 
                         <div className="contact__form-div contact__form-area">
-                            <label htmlFor="" className="contact__form-tag">Project</label>
+                            <label htmlFor="" className="contact__form-tag">Message</label>
                             <textarea name="project" cols="30" rows="10"
                                 className="contact__form-input"
                                 placeholder="Write your project"></textarea>
