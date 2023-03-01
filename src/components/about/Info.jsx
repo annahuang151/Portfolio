@@ -18,8 +18,8 @@ const Info = () => {
 
             <div className="about__box">
             <i className="uil uil-comment-alt-question about__icon"></i>
-                <h3 className="about__title">Support</h3>
-                <span className="about__subtitle">Online 24/7</span>
+                <h3 className="about__title">Creavitity</h3>
+                <span className="about__subtitle">Professional Advices</span>
             </div>
         </div>
     )
